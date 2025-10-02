@@ -12,7 +12,7 @@ Hiện nay, việc ôn luyện lý thuyết lái xe thường phụ thuộc vào
 - Tra cứu nhanh các biển báo giao thông với hình ảnh minh họa rõ ràng.
 
 ## 3. Nghiên cứu và phân tích.
-### 3.1. Nhu cầu người dùng.
+## 3.1. Nhu cầu người dùng.
 - Người dùng muốn ứng dụng có giao diện dễ nhìn, dễ sử dụng để có thể sử dụng.
 - Người không giỏi sử dụng công nghệ có thể sử dụng ứng dụng dễ dàng, không phải tra cứu trên internet.
 - Có thể học tập bất cứ thời gian rãnh rỗi nào.
