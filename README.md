@@ -21,25 +21,25 @@ Hiện nay, việc ôn luyện lý thuyết lái xe thường phụ thuộc vào
 - Người trên 18 tuổi chưa có giấy phép lái xe.
 
 ### 3.3. Tính năng
-***1. Chọn hạng thi***
+1. ***Chọn hạng thi***
 - Chọn hạng thi ở mức A1 hoặc A giúp cá nhân hoá nội dung và đề thi thử.
 
-**2. Làm đề thi thử**
+2. **Làm đề thi thử**
 - Lựa chọn bộ đề thi thử
 - Biết được kết quả sau khi thi thử xong.
 
-**3. Câu sai**
+3. **Câu sai**
 - Các câu sai sẽ được lưu trữ
 - Có thể ôn tập lại.
 
-**4. Câu điểm liệt**
+4. **Câu điểm liệt**
 - Biết được đây là những câu quan trọng.
 - Ôn tập các câu trên để không bị đánh rớt.
 
-**5. Tra cứu biển báo**
+5. **Tra cứu biển báo**
 - Xem được các biển báo giao thông và thông tin về biển báo đó.
 
-**6. Cài đặt**
+6. **Cài đặt**
 - Có thể chọn hạng thi khác.
 - Xoá dữ liệu làm lại.
 
