@@ -22,7 +22,7 @@ Hiện nay, việc ôn luyện lý thuyết lái xe thường phụ thuộc vào
 
 ### 3.3. Tính năng
 1. ***Chọn hạng thi***
-- Chọn hạng thi ở mức A1 hoặc A giúp cá nhân hoá nội dung và đề thi thử.
+ - Chọn hạng thi ở mức A1 hoặc A giúp cá nhân hoá nội dung và đề thi thử.
 
 2. **Làm đề thi thử**
 - Lựa chọn bộ đề thi thử
